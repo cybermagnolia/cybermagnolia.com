@@ -15,3 +15,11 @@ Custom CSS can be found in `static/css`.
 ## Running locally :computer:
 
 `hugo server -D` for local preview.
+
+## TODO
+
+- customize social media buttons
+- drop categories (temporarily)
+- upload graphics (e.g. favicons, logo)
+- drop post comments
+

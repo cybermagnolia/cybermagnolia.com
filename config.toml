@@ -1,6 +1,6 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
-baseurl                 = "https://example.com/"
+# baseurl                 = "https://example.com/"
 DefaultContentLanguage  = "en"
 title                   = "CyberMagnolia"
 theme                   = "hugo-future-imperfect-slim"

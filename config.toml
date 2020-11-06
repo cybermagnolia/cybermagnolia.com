@@ -9,9 +9,9 @@ googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = ['pl', 'fr', 'de', 'pt', 'es', 'zh-cn', 'zh-tw', 'ja', 'nl']
 
-copyright = "© 2020 Daria Grudzien"
-enableEmoji = true
-enableRobotsTXT = true
+copyright               = "© 2020 Daria Grudzien"
+enableEmoji             = true
+enableRobotsTXT         = true
 
 [markup.goldmark.renderer]
   unsafe                = true
@@ -31,13 +31,13 @@ enableRobotsTXT = true
   imageStretch          = ""
   removeBlur            = false
   socialShare           = ["twitter", "facebook", "linkedin", "pinterest", "email"]
-  hideEmptyStats        = true
+  # hideEmptyStats        = true
 
   [params.meta]
     description         = "CyberMagnolia—Women's Tech Collective."
     author              = "CyberMagnolia"
     favicon             = false
-    svg                 = true
+    svg                 = false
     faviconVersion      = "1"
     msColor             = "#ffffff"
     iOSColor            = "#ffffff"
@@ -50,8 +50,7 @@ enableRobotsTXT = true
     languageMenu        = false
 
   [params.intro]
-    header                = "what do we put here?"
-    paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
+    # paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
     # temporarily disabled
     rssIntro              = false
     socialIntro           = false
@@ -59,9 +58,9 @@ enableRobotsTXT = true
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/main/logo.jpg"
-      shape               = "circle"
-      width               = ""
+      src                 = "/img/logo_dark.png"
+      shape               = "square"
+      width               = "200"
       alt                 = "CyberMagnolia Logo"
 
   [params.sidebar]

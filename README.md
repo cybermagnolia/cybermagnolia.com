@@ -18,5 +18,11 @@ Custom CSS can be found in `static/css`.
 
 ## TODO
 
-- upload graphics (e.g. favicons, logo)
+### Priority
+- sort out favicon
+- setting up Netlify (project, github hooks)
+- add at least 2 posts
+
+
+### Nice to have
 - see if we can add Slack

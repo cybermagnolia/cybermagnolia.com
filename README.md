@@ -18,8 +18,5 @@ Custom CSS can be found in `static/css`.
 
 ## TODO
 
-- customize social media buttons
-- drop categories (temporarily)
 - upload graphics (e.g. favicons, logo)
-- drop post comments
-
+- see if we can add Slack

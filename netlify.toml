@@ -1,3 +1,6 @@
+[build]
+  command = "hugo"
+
 [build.environment]
   HUGO_VERSION = "0.78.0"
   HUGO_ENABLEGITINFO = "true"

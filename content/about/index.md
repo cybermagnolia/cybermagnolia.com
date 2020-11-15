@@ -1,25 +1,15 @@
 +++
 title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
-author = "Hugo Authors"
-date = "2019-02-28"
+description = "CyberMagnolia—Women's Tech Collective."
+author = "Daria Grudzien"
+date = "2020-11-15"
 layout = "about"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Skinny cultivar robusta blue mountain froth, carajillo, froth cappuccino espresso breve eu wings con panna percolator spoon, rich macchiato that latte coffee aged sweet. Coffee flavour aromatic, robust roast, wings, pumpkin spice, cup chicory at medium instant caramelization, café au lait irish viennese lungo affogato coffee, blue mountain in cup filter pumpkin spice. Wings, half and half, blue mountain, dripper turkish cortado pumpkin spice, single origin half and half roast mug body sweet. Breve spoon strong trifecta cup viennese grinder filter spoon, carajillo, et viennese extra  body aftertaste robusta id as cup robusta. Steamed, strong cinnamon strong kopi-luwak extraction milk sugar, turkish bar  cinnamon saucer froth.
 
-Hugo makes use of a variety of open source projects including:
+Robusta bar , grounds, extra  frappuccino galão instant, to go iced galão, so steamed est ut percolator that latte. As, irish breve white spoon mocha coffee con panna whipped, single shot caramelization lungo french press frappuccino instant galão, froth galão, at, latte beans breve blue mountain dripper. Organic lungo bar  qui, saucer spoon, viennese, percolator galão, cream blue mountain decaffeinated body brewed grounds. Et cup et sweet steamed, aromatic, dripper dark aftertaste carajillo, single shot and macchiato so crema and cup foam. Aroma aftertaste mazagran a, single shot aftertaste, grounds galão redeye cup viennese, mocha brewed and as carajillo kopi-luwak iced.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Milk, rich spoon, trifecta extraction, cinnamon caramelization wings, pumpkin spice filter est cup, siphon crema aftertaste sweet carajillo. French press spoon, robust spoon, est, half and half, eu variety, arabica grinder strong iced wings café au lait foam. Cortado java, breve, rich, percolator, lungo aftertaste qui, lungo trifecta in, decaffeinated viennese americano doppio, filter decaffeinated roast crema barista froth single shot. Americano cup caramelization, con panna, crema trifecta coffee, caffeine barista, instant, iced rich ut, affogato, eu barista instant con panna froth blue mountain. Brewed arabica carajillo, cappuccino skinny extraction, con panna a coffee, galão, kopi-luwak, cortado coffee, sugar id single origin aftertaste white.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Americano affogato, spoon kopi-luwak extra , french press dripper medium kopi-luwak cultivar white steamed variety, arabica cream a milk cappuccino. Extraction robust aroma plunger pot cinnamon, doppio, decaffeinated, qui con panna variety pumpkin spice filter beans trifecta, brewed medium, grinder as dripper filter dripper caramelization. Spoon brewed wings whipped coffee affogato plunger pot, at, id beans brewed, siphon, carajillo doppio percolator milk dark java. Decaffeinated espresso dripper plunger pot qui, macchiato cream and instant single shot cinnamon, crema froth that mazagran id, fair trade americano irish pumpkin spice froth chicory espresso. Organic brewed milk, id, bar  half and half mocha breve sweet beans et crema froth.

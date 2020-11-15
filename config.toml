@@ -1,6 +1,6 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
-baseurl                 = "https://example.com/"
+# baseurl                 = "https://example.com/"
 DefaultContentLanguage  = "en"
 title                   = "CyberMagnolia"
 theme                   = "hugo-future-imperfect-slim"
@@ -87,13 +87,6 @@ enableRobotsTXT         = true
 
 [menu]
 
-  # [[menu.main]]
-  #   name              = "Home"
-  #   identifier        = "home"
-  #   url               = "/"
-  #   pre               = "<i class='fa fa-home'></i>"
-  #   weight            = 1
-
   [[menu.main]]
     name              = "Blog"
     identifier        = "blog"
@@ -107,14 +100,6 @@ enableRobotsTXT         = true
     url               = "/about/"
     pre               = "<i class='far fa-id-card'></i>"
     weight            = 3
-
-
-  # [[menu.main]]
-  #   name              = "Categories"
-  #   identifier        = "categories"
-  #   url               = "/categories/"
-  #   pre               = "<i class='fas fa-sitemap'></i>"
-  #   weight            = 5
 
   # [[menu.main]]
   #   name              = "Contact"

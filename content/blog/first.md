@@ -1,49 +1,21 @@
 +++
-title = "Emoji Support"
-description = "Guide to emoji usage in Hugo"
-author = "Hugo Authors"
-date = "2019-03-05"
-tags = ["emoji"]
+title = "Example Post"
+description = "This is how example post would look like"
+author = "Daria"
+date = "2020-11-15"
+tags = ["staff"]
 [[images]]
-  src = "img/2019/03/pic02.jpg"
-  alt = "Desert Scene"
+  src = "/img/ph1.jpeg"
+  alt = "Photo"
   stretch = "stretchH"
 +++
 
-Emoji can be enabled in a Hugo project in a number of ways.
+This is a preview article content.
 <!--more-->
-The [`emojify`](https://gohugo.io/functions/emojify/) function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes).
+Skinny cultivar robusta blue mountain froth, carajillo, froth cappuccino espresso breve eu wings con panna percolator spoon, rich macchiato that latte coffee aged sweet. Coffee flavour aromatic, robust roast, wings, pumpkin spice, cup chicory at medium instant caramelization, café au lait irish viennese lungo affogato coffee, blue mountain in cup filter pumpkin spice. Wings, half and half, blue mountain, dripper turkish cortado pumpkin spice, single origin half and half roast mug body sweet. Breve spoon strong trifecta cup viennese grinder filter spoon, carajillo, et viennese extra  body aftertaste robusta id as cup robusta. Steamed, strong cinnamon strong kopi-luwak extraction milk sugar, turkish bar  cinnamon saucer froth.
 
-To enable emoji globally, set `enableEmoji` to `true` in your site’s [configuration](https://gohugo.io/getting-started/configuration/) and then you can type emoji shorthand codes directly in content files; e.g.
+Robusta bar , grounds, extra  frappuccino galão instant, to go iced galão, so steamed est ut percolator that latte. As, irish breve white spoon mocha coffee con panna whipped, single shot caramelization lungo french press frappuccino instant galão, froth galão, at, latte beans breve blue mountain dripper. Organic lungo bar  qui, saucer spoon, viennese, percolator galão, cream blue mountain decaffeinated body brewed grounds. Et cup et sweet steamed, aromatic, dripper dark aftertaste carajillo, single shot and macchiato so crema and cup foam. Aroma aftertaste mazagran a, single shot aftertaste, grounds galão redeye cup viennese, mocha brewed and as carajillo kopi-luwak iced.
 
+Milk, rich spoon, trifecta extraction, cinnamon caramelization wings, pumpkin spice filter est cup, siphon crema aftertaste sweet carajillo. French press spoon, robust spoon, est, half and half, eu variety, arabica grinder strong iced wings café au lait foam. Cortado java, breve, rich, percolator, lungo aftertaste qui, lungo trifecta in, decaffeinated viennese americano doppio, filter decaffeinated roast crema barista froth single shot. Americano cup caramelization, con panna, crema trifecta coffee, caffeine barista, instant, iced rich ut, affogato, eu barista instant con panna froth blue mountain. Brewed arabica carajillo, cappuccino skinny extraction, con panna a coffee, galão, kopi-luwak, cortado coffee, sugar id single origin aftertaste white.
 
-<p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
-<br>
-
-The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference for emoji shorthand codes.
-
-***
-
-**N.B.** The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.
-
-{{< highlight html >}}
-.emoji {
-font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols;
-}
-{{< /highlight >}}
-
-{{< css.inline >}}
-<style>
-.emojify {
-	font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols;
-	font-size: 2rem;
-	vertical-align: middle;
-}
-@media screen and (max-width:650px) {
-    .nowrap {
-	display: block;
-	margin: 25px 0;
-}
-}
-</style>
-{{< /css.inline >}}
+Americano affogato, spoon kopi-luwak extra , french press dripper medium kopi-luwak cultivar white steamed variety, arabica cream a milk cappuccino. Extraction robust aroma plunger pot cinnamon, doppio, decaffeinated, qui con panna variety pumpkin spice filter beans trifecta, brewed medium, grinder as dripper filter dripper caramelization. Spoon brewed wings whipped coffee affogato plunger pot, at, id beans brewed, siphon, carajillo doppio percolator milk dark java. Decaffeinated espresso dripper plunger pot qui, macchiato cream and instant single shot cinnamon, crema froth that mazagran id, fair trade americano irish pumpkin spice froth chicory espresso. Organic brewed milk, id, bar  half and half mocha breve sweet beans et crema froth.

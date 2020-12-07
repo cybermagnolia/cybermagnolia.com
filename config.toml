@@ -5,7 +5,7 @@ DefaultContentLanguage  = "en"
 title                   = "CyberMagnolia"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
-googleAnalytics         = ""
+googleAnalytics         = "G-9KJ9EK059G"
 pluralizeListTitles     = false
 disableLanguages        = ['pl', 'fr', 'de', 'pt', 'es', 'zh-cn', 'zh-tw', 'ja', 'nl']
 
@@ -30,7 +30,7 @@ enableRobotsTXT         = true
   readingTime           = true
   imageStretch          = ""
   removeBlur            = false
-  socialShare           = ["twitter", "facebook", "linkedin", "pinterest", "email"]
+  socialShare           = ["twitter", "facebook", "linkedin", "email"]
   # hideEmptyStats        = true
 
   [params.meta]
@@ -101,12 +101,12 @@ enableRobotsTXT         = true
     pre               = "<i class='far fa-id-card'></i>"
     weight            = 3
 
-  # [[menu.main]]
-  #   name              = "Contact"
-  #   identifier        = "contact"
-  #   url               = "/contact/"
-  #   pre               = "<i class='far fa-envelope'></i>"
-  #   weight            = 6
+  [[menu.main]]
+    name              = "Contact"
+    identifier        = "contact"
+    url               = "/contact/"
+    pre               = "<i class='far fa-envelope'></i>"
+    weight            = 6
 
 [Languages]
 
@@ -120,7 +120,7 @@ enableRobotsTXT         = true
   instagram             = "cybermagnolia"
   github                = "cybermagnolia/cybermagnolia.com"
   # youtube               = ""
-  # linkedin_company      = "examplebusiness"
+  linkedin_company      = "cybermagnolia"
   # facebook              = "example"
   # medium                = ""
   # email                 = "example"

@@ -16,3 +16,18 @@ Our passion for technology brings us together to create a space in which we can 
 
 Become a part of CyberMagnolia, the growing collective of women working in technology in Czech Republic. Fill out this 1-minute form to join CyberMagnolia:
 **[CyberMagnolia sign up form](https://docs.google.com/forms/d/e/1FAIpQLSdSJjxdho3MrOk2iF7q75kk2d90Bft37ziBiin9TIZ3GC-f_w/viewform?usp=sf_link)**
+
+## Core Team
+
+### [Anežka Müller](https://www.linkedin.com/in/anezkamll/) — Co-Founder
+
+I like organizing stuff. I do it for a living, working as an event organizer and employer branding specialist. And I do it for fun as well mainly within the Czech Python community where all my passion for community activities started.
+I fell in love with the Czech Python community several years ago and I have been actively participating in it ever since, organizing various tech events. Supporting the community this way is the best solution for me as I am not a tech person :)
+
+Since I started exploring the world of tech communities, or more precisely women tech communities, I have met with so many interesting people, inspiring examples, extraordinary talents, and great minds, often not known beyond the borders of their particular community. With CyberMagnolia, I would love to create a space where all these remarkable people can meet, share, and support each other no matter the background, programming language, experience, or role.
+
+### [Daria Grudzień](https://www.linkedin.com/in/dariagru/) — Co-Founder
+
+I enjoy building cool stuff with great people. In my work as a Site Reliability Engineer I’m building reliable systems and tooling which helps web developers deploy their code to production with ease.
+
+I like solving problems and bringing order to chaotic environments. As CyberMagnolia’s Co-Founder I’m working on building the largest community of women working in tech in Czech Republic.

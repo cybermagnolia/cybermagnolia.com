@@ -5,7 +5,7 @@ DefaultContentLanguage  = "en"
 title                   = "CyberMagnolia"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
-googleAnalytics         = "G-9KJ9EK059G"
+googleAnalytics         = "G-FQPLQRQLX8"
 pluralizeListTitles     = false
 disableLanguages        = ['pl', 'fr', 'de', 'pt', 'es', 'zh-cn', 'zh-tw', 'ja', 'nl']
 

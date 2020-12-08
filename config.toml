@@ -31,7 +31,7 @@ enableRobotsTXT         = true
   imageStretch          = ""
   removeBlur            = false
   socialShare           = ["twitter", "facebook", "linkedin", "email"]
-  # hideEmptyStats        = true
+  hideEmptyStats        = true
 
   [params.meta]
     description         = "CyberMagnolia—Women's Tech Collective."

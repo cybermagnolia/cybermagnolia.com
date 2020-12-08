@@ -1,0 +1,16 @@
+body {
+    font-family: "montserrat", Helvetica, Arial, sans-serif;
+    font-display: swap;
+}
+
+p a {
+    color: #06BFC9;
+}
+
+h3 a {
+    color: #06BFC9;
+}
+
+a:hover {
+    color: #F8428B;
+}

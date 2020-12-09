@@ -6,7 +6,7 @@ emailservice = "formspree.io/example@email.com"
 contactanswertime = 24
 +++
 
-Become a part of CyberMagnolia, the growing collective of women working in technology in Czech Republic. Fill out this 1-minute form to join us and make new friends:
+Become a part of CyberMagnolia, the growing collective of women working in technology in the Czech Republic. Fill out this 1-minute form to join us and make new friends:
 **[CyberMagnolia sign up form](https://docs.google.com/forms/d/e/1FAIpQLSdSJjxdho3MrOk2iF7q75kk2d90Bft37ziBiin9TIZ3GC-f_w/viewform?usp=sf_link)**
 
 

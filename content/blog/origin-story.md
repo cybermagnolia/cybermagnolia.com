@@ -1,5 +1,5 @@
 +++
-title = "The origin sotry of CyberMagnolia"
+title = "The origin story of CyberMagnolia"
 description = "A short time travel and the origin story of our tech collective."
 author = "Daria Grudzien"
 date = "2020-12-21"

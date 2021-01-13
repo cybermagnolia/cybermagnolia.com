@@ -67,12 +67,12 @@ There are a few skills that help speed up the learnings. This may sound counteri
 **To end up on a lighter note, what are your plans for 2021?**
 
 I did decide it’s time for me to challenge myself and do some work related changes. I will be leaving Apiary in February and plan to take a month off to recharge before starting a new adventure.
-I will also continue helping the CyberMagnolia community grow and connect women in tech — [join us if you’re a lady working in technology in Czech Republic](https://docs.google.com/forms/d/e/1FAIpQLSdSJjxdho3MrOk2iF7q75kk2d90Bft37ziBiin9TIZ3GC-f_w/viewform?usp=sf_link)!
+I will also continue helping the CyberMagnolia community grow and connect women in tech — [join us if you’re a lady working in technology in the Czech Republic](https://docs.google.com/forms/d/e/1FAIpQLSdSJjxdho3MrOk2iF7q75kk2d90Bft37ziBiin9TIZ3GC-f_w/viewform?usp=sf_link)!
 
 **_Thank you for the interview, Daria!_**
 
 ## Bio
 
-[Daria Grudzien](https://dariagrudzien.com/) works in site reliability engineering after making a career change. Her work focuses on helping developers deploy code to production faster, and bringing visibility to production systems. She’s passionate about the topic of oncall training and making sure that all engineers carrying the pager feel confident.
+[Daria Grudzien](https://dariagrudzien.com/) works in Site Reliability Engineering after making a career change. Her work focuses on helping developers deploy code to production faster, and bringing visibility to production systems. She’s passionate about the topic of oncall training and making sure that all engineers carrying the pager feel confident.
 
 Daria is committed to building spaces that help people grow — she’s mentoring juniors starting their career, and is one of the Co-Founders of CyberMagnolia. When away from the keyboard, she’s either sailing across Europe, hiking through it or falling into the snow head-first while snowboarding.

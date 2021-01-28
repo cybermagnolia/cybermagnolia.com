@@ -14,7 +14,7 @@ We speak Python, Ruby, Javascript, C++, Java, Golang, and SQL among others. We l
 
 Our passion for technology brings us together to create a space in which we can make new friends, find mentors and role models, laugh at geeky jokes and learn from each other.
 
-Become a part of CyberMagnolia, the growing collective of women working in technology in Czech Republic. Fill out this 1-minute form to join CyberMagnolia:
+Become a part of CyberMagnolia, the growing collective of women working in technology in the Czech Republic. Join us today
 **[CyberMagnolia sign up form](https://docs.google.com/forms/d/e/1FAIpQLSdSJjxdho3MrOk2iF7q75kk2d90Bft37ziBiin9TIZ3GC-f_w/viewform?usp=sf_link)**
 
 ## Core Team
@@ -30,4 +30,4 @@ Since I started exploring the world of tech communities, or more precisely women
 
 I enjoy building cool stuff with great people. In my work as a Site Reliability Engineer I’m building reliable systems and tooling which helps web developers deploy their code to production with ease.
 
-I like solving problems and bringing order to chaotic environments. As CyberMagnolia’s Co-Founder I’m working on building the largest community of women working in tech in Czech Republic.
+I like solving problems and bringing order to chaotic environments. As CyberMagnolia’s Co-Founder I’m working on building the largest community of women working in tech in the Czech Republic.

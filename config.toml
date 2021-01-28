@@ -88,6 +88,13 @@ enableRobotsTXT         = true
 [menu]
 
   [[menu.main]]
+    name              = "Speakers"
+    identifier        = "speakers"
+    url               = "/speakers/"
+    pre               = "<i class='far fa-newspaper'></i>"
+    weight            = 2
+
+  [[menu.main]]
     name              = "Blog"
     identifier        = "blog"
     url               = "/blog/"

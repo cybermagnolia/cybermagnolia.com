@@ -5,7 +5,7 @@ author = "Anezka Muller"
 date = "2021-01-13"
 tags = ["interview"]
 [[images]]
-  src = "/img/daria_g.png"
+  src = "/img/daria_g.webp"
   alt = "Photo"
   stretch = "stretchH"
 +++

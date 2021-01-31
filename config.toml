@@ -58,7 +58,7 @@ enableRobotsTXT         = true
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "/img/logo_dark.png"
+      src                 = "/img/logo_dark.webp"
       shape               = "square"
       width               = "200"
       alt                 = "CyberMagnolia Logo"

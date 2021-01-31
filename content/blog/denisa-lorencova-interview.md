@@ -5,7 +5,7 @@ author = "Daria Grudzien"
 date = "2020-12-08"
 tags = ["interview"]
 [[images]]
-  src = "/img/denisa_l.png"
+  src = "/img/denisa_l.webp"
   alt = "Photo"
   stretch = "stretchH"
 +++

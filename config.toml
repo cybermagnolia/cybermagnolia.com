@@ -36,9 +36,9 @@ enableRobotsTXT         = true
   [params.meta]
     description         = "CyberMagnolia—Women's Tech Collective."
     author              = "CyberMagnolia"
-    favicon             = false
+    favicon             = true
     svg                 = false
-    faviconVersion      = "1"
+    faviconVersion      = "6"
     msColor             = "#ffffff"
     iOSColor            = "#ffffff"
 

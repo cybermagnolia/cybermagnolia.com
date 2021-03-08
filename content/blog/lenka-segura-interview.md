@@ -24,7 +24,7 @@ I visited the Django Girls workshop while pregnant. The defense of my doctoral t
 
 Some time after that I learned about the [Pyladies presential course](https://pyladies.cz/brno/) in Brno. The teacher there was awesome and really dedicated. He provided lots of valuable knowledge in a very digestible way for newbies. I think that this good first experience was very important for somebody who just started experimenting with a new field.
 
-Why Python? Well, I didn’t know about any C-ladies, Goladies or other ladies (though there are Czechitas and Rails girls now). Also, the Django framework is python-based, so I just continued with the same language.  I trusted the general opinion that Python is a good language to start hello worlding with. It sure was nicer than R. There is a wealth of materials and there’s tons of examples of people building all sorts of crazy and niche things in it as well, so when you try to find how on earth to do X in Python, it is very rare to draw a blank.
+Why Python? Well, I didn’t know about any C-ladies, Goladies or other ladies (though there are Czechitas and Rails girls now). Also, the Django framework is Python-based, so I just continued with the same language.  I trusted the general opinion that Python is a good language to start hello worlding with. It sure was nicer than R. There is a wealth of materials and there’s tons of examples of people building all sorts of crazy and niche things in it as well, so when you try to find how on earth to do X in Python, it is very rare to draw a blank.
 
 **Three years passed between the online course and your Outreachy internship in 2018. What did you do over those three years? Did you continue with self-learning or any other form of education in IT?**
 
@@ -46,6 +46,12 @@ It was very difficult to get the confidence to start applying for jobs. I was st
 
 The project I work on is to build an application which gathers known and also computed information about mutations found in cancer genomes. My daily work has been evolving during my tenure in the lab. At first it was just taking ownership of some legacy projects and coding a replacement, then I started integrating what I did with the existing stack. A bit later I started gathering requirements and improving the UX and lately I’ve started handling some of the operation analysis web apps we have. A little bit of everything.
 
+**You took quite a journey from agricultural chemistry to cancer research. What would you say has been the biggest challenge in your career so far?**
+
+I‘m part of a cancer genomics computational lab, but I’m not a researcher here. My job is to translate the work of the researchers into code. Of course, to do so correctly is a big responsibility, because the application I’m working on will be used by both clinicians and researchers in oncology. For this, it is also necessary to learn at least the basics of gene expression and translation, which is incredibly interesting, but also another world of knowledge. It is inspiring to be in a lab full of brilliant researchers and I feel that the future of cancer research is in good hands.
+
+The biggest challenge so far were the first weeks and months in the first tech job. It takes a lot of courage when all you have been doing is self-learning and building things by yourself. There was the fear of self-learners that my knowledge is patchy and incomplete and of course a great deal of impostor syndrome. Also it must have been a lot of courage on the side of the group leader to whom I could not offer much in the way of computer science background in my CV, but who gave me my first chance despite that.
+
 **As I mentioned at the beginning of our interview, I saw you speaking at DevConf CZ. If I remember correctly, it was your first time as a speaker. Why did you decide to talk at DevConf? How was the experience?**
 
 I had previously attended DevConfCZ thanks to the Outreachy travel stipend and thoroughly enjoyed the experience. Having been a previous attendee I received the call for papers email and I started to think about how conferences are from the speaker side. Fortunately Devconf offers a Speaker Guide and an assistance of a Speaker Coach for new speakers. The Speaker Coach contacted me some time before the conference and helped me to improve the slides and practice the talk.
@@ -53,12 +59,6 @@ I had previously attended DevConfCZ thanks to the Outreachy travel stipend and t
 **One of the long-term goals of the CyberMagnolia community is to put together a group of female tech speakers. We want to increase their visibility and make it easier for the conference organizers to reach them. Would you consider speaking at some more conferences when the situation allows?**
 
 Absolutely!
-
-**You took quite a journey from agricultural chemistry to cancer research. What would you say has been the biggest challenge in your career so far?**
-
-I‘m part of a cancer genomics computational lab, but I’m not a researcher here. My job is to translate the work of the researchers into code. Of course, to do so correctly is a big responsibility, because the application I’m working on will be used by both clinicians and researchers in oncology. For this, it is also necessary to learn at least the basics of gene expression and translation, which is incredibly interesting, but also another world of knowledge. It is inspiring to be in a lab full of brilliant researchers and I feel that the future of cancer research is in good hands.
-
-The biggest challenge so far were the first weeks and months in the first tech job. It takes a lot of courage when all you have been doing is self-learning and building things by yourself. There was the fear of self-learners that my knowledge is patchy and incomplete and of course a great deal of impostor syndrome. Also it must have been a lot of courage on the side of the group leader to whom I could not offer much in the way of computer science background in my CV, but who gave me my first chance despite that.
 
 **Do you have any advice for those who consider a career change towards SW development?**
 

@@ -5,14 +5,12 @@ author = "Anezka Muller"
 date = "2021-03-05"
 tags = ["interview"]
 [[images]]
-  src = "/img/lenka_s.webp"
+  src = "/img/lenka_s.jpeg"
   alt = "Photo"
   stretch = "stretchH"
 +++
 
-Hi Lenka,
-
-Thank you very much for taking part in our interview series with tech ladies from the Czech Republic. I find your career journey really inspiring, and I was looking forward to sharing your story with a broader audience since I heard your talk at the DevConf CZ in January 2020. I am glad we managed to find a way despite the unfortunate worldwide epidemic situation.
+Hi Lenka, Thank you very much for taking part in our interview series with tech ladies from the Czech Republic. I find your career journey really inspiring, and I was looking forward to sharing your story with a broader audience since I heard your talk at the DevConf CZ in January 2020. I am glad we managed to find a way despite the unfortunate worldwide epidemic situation.
 
 **Let me start with your background - you got your PhD. in Agricultural Chemistry. Why did you choose this particular specialization? And did your studies play any role in your decision to start with programming?**
 

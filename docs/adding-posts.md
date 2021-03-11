@@ -9,19 +9,19 @@ Here's a guide to help you do it. If you have any difficulties, please reach out
 ## Prerequisites
 
 * Basic knowledge of [git](https://www.git-tower.com/blog/git-cheat-sheet/) & [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* A GitHub account & access to this repository (please ping Daria on CyberMagnolia Slack to get it)
+* A GitHub account & access to this repository (please ping `@Daria Grudzien` on CyberMagnolia Slack to get it)
 * Ability to use command line
 * This repository cloned on your computer
-* Initialized submodule with the blog theme
-* (Optionally) Having [Hugo](https://gohugo.io/getting-started/installing/) installed
+* (Optional) Having [Hugo](https://gohugo.io/getting-started/installing/) installed
+* (Optional if using Hugo) Initialized submodule with the blog theme
 
 Here are the commands to clone the repo and initialize the submodule:
 
-    ```sh
-        git clone git@github.com:cybermagnolia/cybermagnolia.com.git
-        cd <your cybermagnolia.com project directory>
-        git submodule init
-    ```
+```sh
+    git clone git@github.com:cybermagnolia/cybermagnolia.com.git
+    cd cybermagnolia.com
+    git submodule init
+```
 
 ## Adding Posts
 
@@ -36,32 +36,32 @@ Start by creating your own git branch, see first step of[#Creating-The-Pull-Requ
 
 1. Go to the `content/blog/` directory:
 
-    ```sh
-        cd <your cybermagnolia.com project directory>
-        cd content/blog/
-    ```
+```sh
+    cd <your cybermagnolia.com project directory>
+    cd content/blog/
+```
 
 2. Create a new markdown file in the blog directory - it's title will become the URL of the blog post so use dashes to separate words (e.g. `jane-smith-interview.md`)
 
-    ```sh
-        touch jane-smith-interview.md
-    ```
+```sh
+    touch jane-smith-interview.md
+```
 
 3. Copy the headers from another post in the same directory (i.e. everything at the top of the post including `+++` section markers)
 
-    ```md
-        +++
-        title = "Online Happy Hours December 2020"
-        description = "Join us for our next friendly & informal online chat"
-        author = "Daria Grudzien"
-        date = "2020-11-25"
-        tags = ["happy_hours", "meetup"]
-        [[images]]
-        src = "/img/happyhours_post.png"
-        alt = "Photo"
-        stretch = "stretchH"
-        +++
-    ```
+```md
+    +++
+    title = "Online Happy Hours December 2020"
+    description = "Join us for our next friendly & informal online chat"
+    author = "Daria Grudzien"
+    date = "2020-11-25"
+    tags = ["happy_hours", "meetup"]
+    [[images]]
+    src = "/img/happyhours_post.png"
+    alt = "Photo"
+    stretch = "stretchH"
+    +++
+```
 
 4. Update all relevant fields: `title`, `description`, `author`, `date`, `tags`
 
@@ -81,10 +81,10 @@ Start by creating your own git branch, see first step of[#Creating-The-Pull-Requ
 
 6. Update `src` in your blog post header with the name of the file you've just added while keeping the `/img/` directory:
 
-    ```md
-        [[images]]
-        src = "/img/jane_smith_interview.jpg"
-    ```
+```md
+    [[images]]
+    src = "/img/jane_smith_interview.jpg"
+```
 
 ## Creating New Blog Post With Hugo
 

@@ -24,4 +24,6 @@ But what I’m totally missing is a community which is not limited to a particul
 
 I think there’s space in Czech Republic for a community that crosses the boundaries of job titles and programming languages. Space for women who love to learn and grow, and see the value of bringing each other up. For juniors and seniors to exchange their experiences. And I’d like to bring back that energy of a room full of energetic, driven women passionate about the cool work they do. If you’d like to be a part of it as well, [join us today](https://docs.google.com/forms/d/e/1FAIpQLSdSJjxdho3MrOk2iF7q75kk2d90Bft37ziBiin9TIZ3GC-f_w/viewform?usp=sf_link) :)
 
+----
 
+*CyberMagnolia is a growing women's tech collective in the Czech Republic. Our community goes beyond the borders of programming languages, tech stacks or job descriptions. We’re there for each other creating a space in which every member feels confident asking hard questions, seeking advice, and offering to share their knowledge and experience. If you're one of us — [come and join us](https://cybermagnolia.com/contact/)!*

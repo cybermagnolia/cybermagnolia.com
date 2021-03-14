@@ -1,8 +1,8 @@
 +++
 title = "Partnership With junior.guru"
-description = "This next episode of our interview series includes a chat with Daria Grudzien - one of CyberMagnolia's Co-Founders."
+description = "Today we announce of first partnership with an inspiring Czech tech community junior.guru"
 author = "Daria Grudzien"
-date = "2021-03-12"
+date = "2021-03-18"
 tags = ["partnership"]
 [[images]]
   src = "/img/jg_partnership.jpeg"
@@ -10,11 +10,11 @@ tags = ["partnership"]
   stretch = "stretchH"
 +++
 
-Today we proudly announce of first partnership with an inspiring tech community **junior.guru** created by Honza Javorek.
+Today we announce of first partnership with an inspiring tech community **junior.guru** created by Honza Javorek.
 
 [junior.guru](https://junior.guru/) is a community for Czech coding newbies and juniors in tech. You get a support group, advice, mentors, career counseling, and more. There's a public handbook with tons of useful information about how to start with coding and how to get your first job in tech, and there's also a job board specifically focused on entry level and junior positions.
 
-The community thrives thanks to the work of it's creator. Honza has been a volunteer in the local Python programming language user group since 2011 and earned our admiration as a PyLadies and PyWorking coach, and a co-organizer of [PyConCZ](https://cz.pycon.org/) conferences.
+The community thrives thanks to the work of it's creator. Honza has been a volunteer in the local Python programming language user group since 2011 and earned our admiration as a PyLadies coach, and a co-organizer of [PyConCZ](https://cz.pycon.org/) conferences.
 
 To create junior.guru Honza left behind his work of a Consulting Member of Technical Staff and Open Source Maintainer at Apiary (by then acquired by Oracle). He decided to pursue his passion for helping coding newbies and juniors in tech.
 

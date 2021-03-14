@@ -76,3 +76,7 @@ I will also continue helping the CyberMagnolia community grow and connect women 
 [Daria Grudzien](https://dariagrudzien.com/) works in Site Reliability Engineering after making a career change. Her work focuses on helping developers deploy code to production faster, and bringing visibility to production systems. She’s passionate about the topic of oncall training and making sure that all engineers carrying the pager feel confident.
 
 Daria is committed to building spaces that help people grow — she’s mentoring juniors starting their career, and is one of the Co-Founders of CyberMagnolia. When away from the keyboard, she’s either sailing across Europe, hiking through it or falling into the snow head-first while snowboarding.
+
+----
+
+*CyberMagnolia is a growing women's tech collective in the Czech Republic. Our community goes beyond the borders of programming languages, tech stacks or job descriptions. We’re there for each other creating a space in which every member feels confident asking hard questions, seeking advice, and offering to share their knowledge and experience. If you're one of us — [come and join us](https://cybermagnolia.com/contact/)!*

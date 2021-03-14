@@ -70,3 +70,7 @@ I don’t think I can give general advice, but one that would have connected wit
 Lenka Segura made a career change and now works as a software developer in Barcelona Biomedical Genomics Lab which is part of the Institute for Research in Biomedicine. She is involved in the Cancer Genome Interpreter project.
 
 Lenka likes mountains from all possible angles and in all seasons, bakes her own bread, drinks tea and watches anime. She cannot wait to go to visit Japan again.
+
+----
+
+*CyberMagnolia is a growing women's tech collective in the Czech Republic. Our community goes beyond the borders of programming languages, tech stacks or job descriptions. We’re there for each other creating a space in which every member feels confident asking hard questions, seeking advice, and offering to share their knowledge and experience. If you're one of us — [come and join us](https://cybermagnolia.com/contact/)!*

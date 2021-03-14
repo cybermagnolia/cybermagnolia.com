@@ -75,3 +75,6 @@ Go out, get involved, meet people at conferences and events and don’t be afrai
 
 In and out of work, Denisa loves challenges and trying new things. In the last few years she learned how to sail and kite, went through a surfing and paragliding course, traveled through Central and South America, visited Iceland and Finland and also learned how to dive.
 
+----
+
+*CyberMagnolia is a growing women's tech collective in the Czech Republic. Our community goes beyond the borders of programming languages, tech stacks or job descriptions. We’re there for each other creating a space in which every member feels confident asking hard questions, seeking advice, and offering to share their knowledge and experience. If you're one of us — [come and join us](https://cybermagnolia.com/contact/)!*

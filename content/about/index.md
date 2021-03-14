@@ -1,6 +1,6 @@
 +++
 title = "About"
-description = "CyberMagnolia—Women's Tech Collective."
+description = "CyberMagnolia — Women's Tech Collective."
 author = "Daria Grudzien"
 date = "2020-12-07"
 layout = "about"
@@ -28,6 +28,12 @@ Since I started exploring the world of tech communities, or more precisely women
 
 ### [Daria Grudzień](https://www.linkedin.com/in/dariagru/) — Co-Founder
 
-I enjoy building cool stuff with great people. In my work as a Site Reliability Engineer I’m building reliable systems and tooling which helps web developers deploy their code to production with ease.
+The importance of building strong professional networks has been at the back of my mind for almost a decade. I've been lucky to meet great mentors who generously shared their knowledge with me and realize how much difference that can make in someone's life. I'm committed to passing it forward and building networks that help junior people propel their development.
 
-I like solving problems and bringing order to chaotic environments. As CyberMagnolia’s Co-Founder I’m working on building the largest community of women working in tech in the Czech Republic.
+With CyberMagnolia I'd like to build a tech community that supports professional and personal development of its members by facilitating important discussions, growing professional networks, and bringing visibility to the awesome work of women working in technology.
+
+In my work as a Site Reliability Engineer I focus on making sure that engineering teams have sufficient tooling, procedures & knowledge to deploy, operate, and fix production systems.
+
+## Partners
+
+We believe in the power of collaboration and [partnerships](https://cybermagnolia.com/partners) focused on continuous development and building a welcoming tech community.

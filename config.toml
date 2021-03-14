@@ -88,13 +88,6 @@ enableRobotsTXT         = true
 [menu]
 
   [[menu.main]]
-    name              = "Speakers"
-    identifier        = "speakers"
-    url               = "/speakers/"
-    pre               = "<i class='far fa-newspaper'></i>"
-    weight            = 2
-
-  [[menu.main]]
     name              = "Blog"
     identifier        = "blog"
     url               = "/blog/"
@@ -102,11 +95,25 @@ enableRobotsTXT         = true
     weight            = 2
 
   [[menu.main]]
+    name              = "Partners"
+    identifier        = "partners"
+    url               = "/partners/"
+    pre               = "<i class='far fa-newspaper'></i>"
+    weight            = 3
+
+  [[menu.main]]
+    name              = "Speakers"
+    identifier        = "speakers"
+    url               = "/speakers/"
+    pre               = "<i class='far fa-newspaper'></i>"
+    weight            = 4
+
+  [[menu.main]]
     name              = "About"
     identifier        = "about"
     url               = "/about/"
     pre               = "<i class='far fa-id-card'></i>"
-    weight            = 3
+    weight            = 5
 
   [[menu.main]]
     name              = "Contact"

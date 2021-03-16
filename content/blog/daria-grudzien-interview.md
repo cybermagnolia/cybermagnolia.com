@@ -28,7 +28,7 @@ I’d like it to connect all women working in tech in Czech Republic, regardless
 
 **Let's now get back to you and your background. You have a Master's degree in Cognitive Science. I have to admit my total lack of knowledge in this area, so I had to educate myself a bit, and I found out it has a strong connection with Computer Science. So is this where your affinity with the tech field comes from?**
 
-[Cognitive Science](https://plato.stanford.edu/entries/cognitive-science/) is a multidisciplinary field focused on studying mind and brain, and it borrows from fields close to Computer Ccience — like logic, artificial intelligence, or even philosophy. I’ve been somewhat traumatized by my first programming classes (my focus was on neuroscience and psychology), but I did spend three solid years studying logic and it has fundamentally changed the way I think about the world.
+[Cognitive Science](https://plato.stanford.edu/entries/cognitive-science/) is a multidisciplinary field focused on studying mind and brain, and it borrows from fields close to Computer Science — like logic, artificial intelligence, or even philosophy. I’ve been somewhat traumatized by my first programming classes (my focus was on neuroscience and psychology), but I did spend three solid years studying logic and it has fundamentally changed the way I think about the world.
 
 While my degree helps me understand some concepts that would otherwise fly above my head, I decided to pursue a career in software enginnering because I think that’s where most of the innovation comes from — not just in terms of products, but the work culture and focus on productivity as well.
 

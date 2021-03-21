@@ -20,3 +20,7 @@ Our Happy Hours are intended for the community members. To join us please fill o
 We treat your data with confidentiality it deserves. One of our core team members will confirm your identity and send an invite to your email address.
 
 We're looking forward to meeting you!
+
+----
+
+*CyberMagnolia is a growing women's tech collective in the Czech Republic. Our community goes beyond the borders of programming languages, tech stacks or job descriptions. We’re there for each other creating a space in which every member feels confident asking hard questions, seeking advice, and offering to share their knowledge and experience. If you're one of us — [come and join us](https://cybermagnolia.com/contact/)!*

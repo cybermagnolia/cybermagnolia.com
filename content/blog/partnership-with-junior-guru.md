@@ -12,7 +12,7 @@ tags = ["partnership"]
 
 [junior.guru](https://junior.guru/) is an inspiring tech community for Czech coding newbies and juniors created by Honza Javorek. You get a support group, advice, mentors, career counseling, and more. There's a public handbook with tons of useful information about how to start with coding and how to get your first job in tech, and there's also a job board specifically focused on entry level and junior positions.
 
-The community thrives thanks to the work of it's creator. Honza has been a volunteer in the local Python programming language user group since 2011 and earned our admiration as a PyLadies coach, and a co-organizer of [PyConCZ](https://cz.pycon.org/) conferences.
+The community thrives thanks to the work of its creator. Honza has been a volunteer in the local Python programming language user group since 2011 and earned our admiration as a PyLadies coach, and a co-organizer of [PyConCZ](https://cz.pycon.org/) conferences.
 
 To create junior.guru Honza left behind his work of a Consulting Member of Technical Staff and Open Source Maintainer at Apiary (by then acquired by Oracle). He decided to pursue his passion for helping coding newbies and juniors in tech.
 

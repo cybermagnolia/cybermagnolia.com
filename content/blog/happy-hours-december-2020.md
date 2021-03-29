@@ -5,7 +5,7 @@ author = "Daria Grudzien"
 date = "2020-11-25"
 tags = ["happy_hours", "meetup"]
 [[images]]
-  src = "/img/happyhours_post.webp"
+  src = "/img/happyhours_post.jpeg"
   alt = "Photo"
   stretch = "stretchH"
 +++

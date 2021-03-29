@@ -4,7 +4,7 @@ baseurl                 = "https://cybermagnolia.com/"
 DefaultContentLanguage  = "en"
 title                   = "CyberMagnolia"
 theme                   = "hugo-future-imperfect-slim"
-paginate                = 3
+paginate                = 5
 googleAnalytics         = "UA-182890047-1"
 pluralizeListTitles     = false
 disableLanguages        = ['pl', 'fr', 'de', 'pt', 'es', 'zh-cn', 'zh-tw', 'ja', 'nl']
@@ -58,7 +58,7 @@ enableRobotsTXT         = true
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "/img/logo_dark.webp"
+      src                 = "/img/cybermagnolia_logo_dark.png"
       shape               = "square"
       width               = "200"
       alt                 = "CyberMagnolia Logo"

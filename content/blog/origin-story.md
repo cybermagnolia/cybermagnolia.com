@@ -5,7 +5,7 @@ author = "Daria Grudzien"
 date = "2020-12-21"
 tags = ["post"]
 [[images]]
-  src = "/img/people-working.webp"
+  src = "/img/people-working.jpeg"
   alt = "Photo"
   stretch = "stretchH"
 +++

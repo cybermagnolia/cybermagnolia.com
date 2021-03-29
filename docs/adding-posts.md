@@ -57,7 +57,7 @@ Start by creating your own git branch, see first step of[#Creating-The-Pull-Requ
     date = "2020-11-25"
     tags = ["happy_hours", "meetup"]
     [[images]]
-    src = "/img/happyhours_post.png"
+    src = "/img/happyhours_post.jpeg"
     alt = "Photo"
     stretch = "stretchH"
     +++
@@ -116,18 +116,18 @@ If you can't figure out the message format, just go with your gut — it's more 
 
 4. Go to [GitHub](https://github.com/cybermagnolia/cybermagnolia.com) and create a pull request (if you don't see a pop-up with suggestion to create a new branch, go to [pulls](https://github.com/cybermagnolia/cybermagnolia.com/pulls) and click on the `New pull request button`. Then select your branch as a comparison.)
 
-![Pull request popup on GitHub](./img/pull_request.png)
+![Pull request popup on GitHub](./img/pull_request.jpeg)
 
 5. Edit the PR - set yourself as the assignee, select reviewers, add a `blog` label. Add a brief description of the post content if you'd like and hit `Create pull request`.
 
-![PR editing on GitHub](./img/pr_editing.png)
+![PR editing on GitHub](./img/pr_editing.jpeg)
 
 6. Once you create the PR, there will be some automatic checks running.
 
     * Make sure that the required checks pass.
     * The last check includes a deploy preview - click on the `Details` button to see the preview. Double check that everything looks good on the post, and then go to the home page and see whether the header of the post looks fine (particularly check whether the text snippet is filled out, so people want to click on the post and read more.)
 
-![PR checks](./img/pr_checks.png)
+![PR checks](./img/pr_checks.jpeg)
 
 7. If everything looks good and you'd like the post to be reviewed faster, poke your reviewers on Slack in `#organizers` channel.
 

@@ -1,6 +1,6 @@
 +++
 title = "Partnership With junior.guru"
-description = "Today we announce of first partnership with an inspiring Czech tech community junior.guru"
+description = "Today we announce our first partnership with an inspiring Czech tech community junior.guru"
 author = "Daria Grudzien"
 date = "2021-03-18"
 tags = ["partnership"]
@@ -10,9 +10,7 @@ tags = ["partnership"]
   stretch = "stretchH"
 +++
 
-Today we announce of first partnership with an inspiring tech community **junior.guru** created by Honza Javorek.
-
-[junior.guru](https://junior.guru/) is a community for Czech coding newbies and juniors in tech. You get a support group, advice, mentors, career counseling, and more. There's a public handbook with tons of useful information about how to start with coding and how to get your first job in tech, and there's also a job board specifically focused on entry level and junior positions.
+[junior.guru](https://junior.guru/) is an inspiring tech community for Czech coding newbies and juniors created by Honza Javorek. You get a support group, advice, mentors, career counseling, and more. There's a public handbook with tons of useful information about how to start with coding and how to get your first job in tech, and there's also a job board specifically focused on entry level and junior positions.
 
 The community thrives thanks to the work of it's creator. Honza has been a volunteer in the local Python programming language user group since 2011 and earned our admiration as a PyLadies coach, and a co-organizer of [PyConCZ](https://cz.pycon.org/) conferences.
 

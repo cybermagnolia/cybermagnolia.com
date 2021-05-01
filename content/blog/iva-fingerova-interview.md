@@ -1,6 +1,6 @@
 +++
 title = "Interview With Iva Fingerová"
-description = "In our next episode of the CyberMagnolia interview series we would like to introduce Iva Fingerová, the Head of Product Development at Invity.io."
+description = "In the next CyberMagnolia interview we would like to introduce Iva Fingerová, the Head of Product Development at Invity.io."
 author = "Anezka Muller"
 date = "2021-05-01"
 tags = ["interview"]

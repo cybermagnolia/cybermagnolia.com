@@ -10,9 +10,7 @@ tags = ["interview"]
   stretch = "stretchH"
 +++
 
-Hi Iva, 
-
-First, let me thank you for taking part in our CyberMagnolia interview series, we are happy to have you on board and I am glad you agreed to be interviewed by us :) 
+Hi Iva, first, let me thank you for taking part in our CyberMagnolia interview series, we are happy to have you on board and I am glad you agreed to be interviewed by us :) 
 
 **It is quite common among the members of the CyberMagnolia community to have other backgrounds than IT or tech. You also fit in this category as you have an engineering degree in Landscape Engineering from the Czech University of Life Sciences Prague. So when and why have you decided that this may not be the right career for you?**
 

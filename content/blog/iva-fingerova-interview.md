@@ -5,7 +5,7 @@ author = "Anezka Muller"
 date = "2021-05-01"
 tags = ["interview"]
 [[images]]
-  src = "/img/iva_f2.jpeg"
+  src = "/img/iva_f.jpeg"
   alt = "Photo"
   stretch = "stretchH"
 +++

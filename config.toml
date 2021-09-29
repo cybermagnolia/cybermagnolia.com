@@ -9,7 +9,7 @@ googleAnalytics         = "UA-182890047-1"
 pluralizeListTitles     = false
 disableLanguages        = ['pl', 'fr', 'de', 'pt', 'es', 'zh-cn', 'zh-tw', 'ja', 'nl']
 
-copyright               = "© 2020 Daria Grudzien"
+copyright               = "© 2020 CyberMagnolia"
 enableEmoji             = true
 enableRobotsTXT         = true
 
@@ -102,9 +102,9 @@ enableRobotsTXT         = true
     weight            = 3
 
   [[menu.main]]
-    name              = "Speakers"
-    identifier        = "speakers"
-    url               = "/speakers/"
+    name              = "Join"
+    identifier        = "join"
+    url               = "/join/"
     pre               = "<i class='far fa-newspaper'></i>"
     weight            = 4
 

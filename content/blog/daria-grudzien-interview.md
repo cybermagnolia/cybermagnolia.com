@@ -79,4 +79,4 @@ Daria is committed to building spaces that help people grow — she’s mentorin
 
 ----
 
-*CyberMagnolia is a growing women's tech collective in the Czech Republic. Our community goes beyond the borders of programming languages, tech stacks or job descriptions. We’re there for each other creating a space in which every member feels confident asking hard questions, seeking advice, and offering to share their knowledge and experience. If you're one of us — [come and join us](https://cybermagnolia.com/contact/)!*
+*CyberMagnolia is a growing women's tech collective in the Czech Republic. Our community goes beyond the borders of programming languages, tech stacks or job descriptions. We’re there for each other creating a space in which every member feels confident asking hard questions, seeking advice, and offering to share their knowledge and experience. If you're one of us — [come and join us](https://cybermagnolia.com/join/)!*

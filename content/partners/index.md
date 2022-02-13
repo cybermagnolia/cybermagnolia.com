@@ -8,7 +8,9 @@ layout = "about"
 
 ![Red Hat](/img/redhat.png)
 
-[Red Hat](https://www.redhat.com) is the world’s leading provider of enterprise open source solutions, using a community-powered approach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. Red Hat’s culture is built on the open source principles of transparency, collaboration, and inclusion, where the best ideas can come from anywhere and anyone. Red Hat is committed to diversity, equity, and inclusion for all associates, as well as for their global communities of partners, customers, and open source contributors.
+[Red Hat](https://www.redhat.com) is the world’s leading provider of enterprise open source solutions, using a community-powered approach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. Red Hat’s culture is built on the open source principles of transparency, collaboration, and inclusion, where the best ideas can come from anywhere and anyone.
+
+Red Hat is committed to diversity, equity, and inclusion for all associates, as well as for their global communities of partners, customers, and open source contributors. To learn more about their company culture and current oppotunities visit [Red Hat's Talent Community website](https://redhat.avature.net/CZCommunities).
 
 ![junior.guru Logo](/img/junior_guru.jpg)
 

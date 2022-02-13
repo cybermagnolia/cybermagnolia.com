@@ -91,36 +91,43 @@ enableRobotsTXT         = true
     name              = "Blog"
     identifier        = "blog"
     url               = "/blog/"
-    pre               = "<i class='far fa-newspaper'></i>"
+    pre               = "<i class='fas fa-book-reader'></i>"
     weight            = 2
 
   [[menu.main]]
     name              = "Partners"
     identifier        = "partners"
     url               = "/partners/"
-    pre               = "<i class='far fa-newspaper'></i>"
+    pre               = "<i class='fas fa-user-friends'></i>"
     weight            = 3
 
   [[menu.main]]
     name              = "Join"
     identifier        = "join"
     url               = "/join/"
-    pre               = "<i class='far fa-newspaper'></i>"
+    pre               = "<i class='fas fa-sign-in-alt'></i>"
     weight            = 4
+
+  [[menu.main]]
+    name              = "CoC"
+    identifier        = "coc"
+    url               = "/code-of-conduct/"
+    pre               = "<i class='fas fa-user-check'></i>"
+    weight            = 5
 
   [[menu.main]]
     name              = "About"
     identifier        = "about"
     url               = "/about/"
     pre               = "<i class='far fa-id-card'></i>"
-    weight            = 5
+    weight            = 6
 
   [[menu.main]]
     name              = "Contact"
     identifier        = "contact"
     url               = "/contact/"
     pre               = "<i class='far fa-envelope'></i>"
-    weight            = 6
+    weight            = 7
 
 [Languages]
 
